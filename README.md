@@ -10,11 +10,11 @@ Installation
 
 -Download or clone this repository.
 
--Open coda and open the right side menu.
+-Open Coda then open the right side menu.
 
 -Click on the home icon and find the Clips menu.
 
--Right click the right side menu and choose import clips.
+-Click the gear icon on the bottom of the right side menu or right click the right side menu and choose import clips.
 
 -Navigate to the Foundation.clips file and choose import.
 
@@ -27,6 +27,7 @@ Installation
 Clip Shortcuts
 ========
 All clip shortcuts are prepended with fd (FounDation...I dunno). You could probably guess most of these, but if you're wondering which shortcuts do what, here's the complete list of all the shortcuts.
+========
 
 
 fddoc - Creates an html5 document complete with js and css files linked and a style.css for your own custom stylesheet, uncomment first!
