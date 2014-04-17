@@ -5,18 +5,97 @@ Coda 2 Clips library for Foundation 5 CSS Framework.
 
 Speed up your Foundation work flow by using Coda 2's clips and this library! Prototype websites faster than you can imagine. 
 
-Download or clone this repository.
+Installation
+========
 
-Open coda and open the right side menu.
+-Download or clone this repository.
 
-Click on the home icon and find the Clips menu.
+-Open coda and open the right side menu.
 
-Right click the right side menu and choose import clips.
+-Click on the home icon and find the Clips menu.
 
-Navigate to the Foundation.clips file and choose import
+-Right click the right side menu and choose import clips.
 
-Marvel at how much time you save
+-Navigate to the Foundation.clips file and choose import.
 
-???
+-Marvel at how much time you save.
 
-Profit.
+-???
+
+-Profit.
+
+Clip Shortcuts
+========
+fddoc - Creates an html5 document complete with js and css files linked
+
+fdrow - Creates a new div element with class of row
+
+fdcolumn - Creates a new div element with all column classes
+
+fdgrid - Creates a new block grid element
+
+fdinterchange - Creates a new interchange img tag
+
+fdoffcanvas - Creates a complete Offcanvas menu with Lorem text in the content area
+
+fdtopbar - Creates a new top bar nav element
+
+fdsidenav - Creates a new side nav element
+
+fdmagellan - Creates a new magellan nav bar with content sections
+
+fdsubnav - Creates a new sub nav element
+
+fdbreadcrumbs - Creates a new breadcrumb element
+
+fdpagination - Creates a new pagination element
+
+fdorbit - Creates a new orbit slider element with 3 slides
+
+fdclearing - Creates a new clearing light box element with 4 items
+
+fdform - Creates a new form using Abide validation as well as data-equalto in the password repeat field
+
+fdformpre - Creates a new prefixed form element
+
+fdformpost - Creates a new postfixed form element
+
+fdrange - Creates a new range slider element
+
+fdbutton - Creates the class that can be attached to any button-able element (div, a, button, etc.)
+
+fdbtngroup - Creates a new button group element
+
+fdbtnbar - Creates a new button bar element
+
+fdsplitbtn - Creates a new split-button element
+
+fddropbtn - Creates a new drop down button element
+
+fdinlinelist - Creates a new inline list element
+
+fdlable - Creates a new label element
+
+fdreveal - Creates a new reveal element and a link to show the created modal
+
+fdalert - Creates a new alert element
+
+fdtooltips - Creates a new tool tip element
+
+fdjoyride - Creates a complete Joyride tour, with the unordered list and the jQuery initializer
+
+fddropdowns - Creates a dropdown element
+
+fdpricingtable - Creates a new pricing table element
+
+fdmeter - Creates a new meter element
+
+fdtable - Creates a new table element
+
+fdaccordion - Creates a new accordion element
+
+fdtabshoriz - Creates a new horizontal tabs element
+
+fdtabsvert - Creates a new vertical tabs element
+
+fdequalizer - Creates 3 div panels with the equalizer data attributes
