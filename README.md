@@ -77,7 +77,7 @@ fddropbtn - Creates a new drop down button element
 
 fdinlinelist - Creates a new inline list element
 
-fdlable - Creates a new label element
+fdlabel - Creates a new label element
 
 fdreveal - Creates a new reveal element and a link to show the created modal
 
