@@ -36,7 +36,9 @@ fdrow - Creates a new div element with class of row
 
 fdcolumn - Creates a new div element with large, medium and small column classes
 
-fdgrid - Creates a new block grid element
+fdgrid - Creates a new div.row element and a div element with large, medium and small classes
+
+fdblock - Creates a new block grid element
 
 fdinterchange - Creates a new interchange img tag
 
