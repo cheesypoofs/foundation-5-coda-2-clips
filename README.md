@@ -30,7 +30,7 @@ fddoc - Creates an html5 document complete with js and css files linked
 
 fdrow - Creates a new div element with class of row
 
-fdcolumn - Creates a new div element with all column classes
+fdcolumn - Creates a new div element with large, medium and small column classes
 
 fdgrid - Creates a new block grid element
 
