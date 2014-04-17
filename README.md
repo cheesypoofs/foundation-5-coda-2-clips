@@ -28,7 +28,8 @@ Clip Shortcuts
 ========
 All clip shortcuts are prepended with fd (FounDation...I dunno). You could probably guess most of these, but if you're wondering which shortcuts do what, here's the complete list of all the shortcuts.
 
-fddoc - Creates an html5 document complete with js and css files linked
+
+fddoc - Creates an html5 document complete with js and css files linked and a style.css for your own custom stylesheet, uncomment first!
 
 fdrow - Creates a new div element with class of row
 
