@@ -32,11 +32,23 @@ All clip shortcuts are prepended with fd (FounDation...I dunno). You could proba
 
 fddoc - Creates an html5 document complete with js and css files linked and a style.css for your own custom stylesheet, uncomment first!
 
+fdbower - Creates a new document with all of the linked bower components, ready to go. Specifically meant for use with a CodeKit Foundation Installation.
+
 fdrow - Creates a new div element with class of row
 
 fdcolumn - Creates a new div element with large, medium and small column classes
 
 fdgrid - Creates a new div.row element and a div element with large, medium and small classes
+
+fd2up - Creates a row and 2 columns spanning 6 grid column spaces
+
+fd3up - Creates a row and 3 columns spanning 4 grid column spaces
+
+fd4up - Creates a row and 4 columns spanning 3 grid column spaces
+
+fdrightsb - Creates a row and 2 columns, left column spans 8 grid column spaces and right column spans 4 grid column spaces, creating a right side bar.
+
+fdleftsb Creates a row and 2 columns, left column spans 4 grid column spaces and right column spans 8 grid column spaces, creating a left side bar.
 
 fdblock - Creates a new block grid element
 
@@ -45,6 +57,12 @@ fdinterchange - Creates a new interchange img tag
 fdoffcanvas - Creates a complete Offcanvas menu with Lorem text in the content area
 
 fdtopbar - Creates a new top bar nav element
+
+fdtopbarsticky - Creates a new top bar nav element with the contain-to-grid and sticky classes
+
+fdtopbarform - Creates a top bar li element with form elements inside of it. Add to any existing top bar ul
+
+fdtopbarbtn - Creates a top bar li element with a button inside of it. Add to any existing top bar ul
 
 fdsidenav - Creates a new side nav element
 
@@ -65,6 +83,8 @@ fdform - Creates a new form using Abide validation as well as data-equalto in th
 fdformpre - Creates a new prefixed form element
 
 fdformpost - Creates a new postfixed form element
+
+fdformpostbtn - Creates a new postfixed form element with a button
 
 fdrange - Creates a new range slider element
 
