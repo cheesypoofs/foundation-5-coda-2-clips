@@ -48,7 +48,7 @@ fd4up - Creates a row and 4 columns spanning 3 grid column spaces
 
 fdrightsb - Creates a row and 2 columns, left column spans 8 grid column spaces and right column spans 4 grid column spaces, creating a right side bar.
 
-fdleftsb Creates a row and 2 columns, left column spans 4 grid column spaces and right column spans 8 grid column spaces, creating a left side bar.
+fdleftsb - Creates a row and 2 columns, left column spans 4 grid column spaces and right column spans 8 grid column spaces, creating a left side bar.
 
 fdblock - Creates a new block grid element
 
