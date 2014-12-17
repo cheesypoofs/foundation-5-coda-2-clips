@@ -34,6 +34,8 @@ fddoc - Creates an html5 document complete with js and css files linked and a st
 
 fdbower - Creates a new document with all of the linked bower components, ready to go. Specifically meant for use with a CodeKit Foundation Installation.
 
+fdlaravel - Creates a new document with all of the linked bower components, ready to go for a Laravel layout.
+
 fdrow - Creates a new div element with class of row
 
 fdcolumn - Creates a new div element with large, medium and small column classes
@@ -64,6 +66,8 @@ fdtopbarform - Creates a top bar li element with form elements inside of it. Add
 
 fdtopbarbtn - Creates a top bar li element with a button inside of it. Add to any existing top bar ul
 
+fdiconbar - Creates a new icon bar element
+
 fdsidenav - Creates a new side nav element
 
 fdmagellan - Creates a new magellan nav bar with content sections
@@ -86,7 +90,15 @@ fdformpost - Creates a new postfixed form element
 
 fdformpostbtn - Creates a new postfixed form element with a button
 
+fdformerror -  Creates a new <small> element with error class for Abide validation
+
+fdcheckbox - Creates a new switch checkbox element
+
+fdradio - Creates a new switch radio element
+
 fdrange - Creates a new range slider element
+
+fdrangevert - Creates a new vertical slider element
 
 fdbutton - Creates the class that can be attached to any button-able element (div, a, button, etc.)
 
@@ -125,3 +137,5 @@ fdtabshoriz - Creates a new horizontal tabs element
 fdtabsvert - Creates a new vertical tabs element
 
 fdequalizer - Creates 3 div panels with the equalizer data attributes
+
+fdreflow - Add to your JS file to reflow a particaly foundation script component
