@@ -138,4 +138,4 @@ fdtabsvert - Creates a new vertical tabs element
 
 fdequalizer - Creates 3 div panels with the equalizer data attributes
 
-fdreflow - Add to your JS file to reflow a particaly foundation script component
+fdreflow - Add to your JS file to reflow a particular foundation script component
